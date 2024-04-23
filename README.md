@@ -10,7 +10,7 @@ I specialize in streamlining operations through the integration of development a
 ### Key skills include:
 - **Cloud Platforms:** AWS
 - **IaC Tools:** Terraform, Ansible
-- **CI/CD:** Jenkins, GitLab CI, GitHub Actions
+- **CI/CD:** Jenkins, GitLab & GitHub
 - **Containers & Orchestration:** Docker, Kubernetes
 - **IBM Tools:** IBM WebSphere, IBM DB2
 - **DB:** RDS, PostGreSQL, IBM DB2 & Oracle
